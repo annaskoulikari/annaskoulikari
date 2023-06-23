@@ -2,7 +2,7 @@
 
 ### Anna Skoulikari's GitHub Profile 👋
 
-Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikari/) and I'm a multi-hyphenate creative and most recently I have used my communication and storytelling skills to teach Git in a simple, tangible, and visual manner. 
+Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikari/) and I'm a multi-hyphenate creative and most recently I have used my communication and storytelling skills to teach [Git](https://git-scm.com/) in a simple, tangible, and visual manner. 
 
 - 📖 Check out my book [Learning Git: A Hands-On and Visual Guide to the Basics of Git](https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919/) published by [O'Reilly](https://learning.oreilly.com/library/view/learning-git/9781098133900/). 
 -  💻 Or check out my online course [Git Learning Journey](https://www.udemy.com/course/git-learning-journey/?referralCode=3FA102A7FD43300B5BC2) on Udemy
