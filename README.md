@@ -1,4 +1,17 @@
-### Hi there 👋
+### Anna Skoulikari's GitHub Profile 👋
+
+Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikari/) and I'm a multi-hyphenate creative and most recently I have used my communication and storytelling skills to teach Git in a simple, tangible, and visual manner. 
+
+- 📖 Check out my book [Learning Git: A Hands-On and Visual Guide to the Basics of Git](https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919/) published by [O'Reilly](https://learning.oreilly.com/library/view/learning-git/9781098133900/). 
+-  💻 Or check out my online course [Git Learning Journey](https://www.udemy.com/course/git-learning-journey/?referralCode=3FA102A7FD43300B5BC2) on Udemy
+- 🙋🏼‍♀️ Connect with me on [LinkedIn](https://www.linkedin.com/in/annaskoulikari/)
+- 📫 How to reach me: [annaskoulikari@gmail.com](annaskoulikari@gmail.com)
+
+Things I have done in the past:
+-  🎙 [CodeNewbie podcast interview: How to communicate complex technical topics](https://www.codenewbie.org/podcast/how-to-communicate-complex-technical-topics)
+-  📃 [Freecodecamp Article: What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+
+
 
 <!--
 **annaskoulikari/annaskoulikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
