@@ -1,3 +1,5 @@
+<img width="300px" align="right" src="https://github.com/annaskoulikari/annaskoulikari/assets/44571108/c9edc3c0-aef8-4caf-9889-86b32d036494"/>
+
 ### Anna Skoulikari's GitHub Profile 👋
 
 Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikari/) and I'm a multi-hyphenate creative and most recently I have used my communication and storytelling skills to teach Git in a simple, tangible, and visual manner. 
