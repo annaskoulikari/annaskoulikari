@@ -7,6 +7,7 @@ Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikar
 - 📖 Check out my book [Learning Git: A Hands-On and Visual Guide to the Basics of Git](https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919/) published by [O'Reilly](https://learning.oreilly.com/library/view/learning-git/9781098133900/). 
 -  💻 Or check out my online course [Git Learning Journey](https://www.udemy.com/course/git-learning-journey/?referralCode=3FA102A7FD43300B5BC2) on Udemy
 - 🙋🏼‍♀️ Connect with me on [LinkedIn](https://www.linkedin.com/in/annaskoulikari/)
+- 🧑‍💻 Visit [my website](https://www.annaskoulikari.com/)
 - 📫 How to reach me: [annaskoulikari@gmail.com](annaskoulikari@gmail.com)
 
 Things I have done in the past:
