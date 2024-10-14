@@ -8,12 +8,7 @@ Hi there! My name is [Anna Skoulikari](https://www.linkedin.com/in/annaskoulikar
 - 🙋🏼‍♀️ Connect with me on [LinkedIn](https://www.linkedin.com/in/annaskoulikari/)
 - 🧑‍💻 Visit [my website](https://www.annaskoulikari.com/)
 - 📫 How to reach me: [annaskoulikari@gmail.com](annaskoulikari@gmail.com)
-
-Things I have done in the past:
--  🎙 [CodeNewbie podcast interview: How to communicate complex technical topics](https://www.codenewbie.org/podcast/how-to-communicate-complex-technical-topics)
--  📃 [Freecodecamp Article: What is Git? A Beginner's Guide to Git Version Control](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
-
-
+- ✉️ Join my Substack: [https://annaskoulikari.substack.com/](https://annaskoulikari.substack.com/)
 
 <!--
 **annaskoulikari/annaskoulikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
